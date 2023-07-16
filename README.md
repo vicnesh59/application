@@ -1,3 +1,7 @@
+Kindly specify the address path in the source code to generate the different .txt files that acts as a database for this application.
+While running for the first time kindly load denominations and add customers in the program.
+After running for the first time this application automatically saves the file in the specified address.
+And for the next time this application reads the text file that it created to update the values and allows the users to work with them.
 In this application it allows to Load denominations in to the atm machine.
 It also allows the user to add banking customer.
 This application allows the customer to transfer the amount betwwen different accounts.
